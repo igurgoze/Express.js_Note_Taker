@@ -3,6 +3,10 @@
 ## Description
 This application will help you keep track of notes during class or as a reminder of things you need to do!
 
+![screenshot](/screenshot.PNG)
+
+[Link to Deployed Site](https://igurgoze.github.io/Express.js_Note_Taker/)
+
 ## Table of contents
 
 - [Installation](#Insallation)
